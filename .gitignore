@@ -1,0 +1,11 @@
+echo ".ddev/.global_commands
+.ddev/.import-db
+.ddev/homeadditions
+.ddev/nfsmount
+.ddev/phpstorm_metadata
+.ddev/db_snapshots
+.env
+node_modules/
+vendor/
+web/sites/default/files/
+web/sites/default/settings.local.php" > .gitignore
